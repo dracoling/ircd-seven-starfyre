@@ -1,0 +1,9 @@
+README for StarFyre.org version of ircd-seven
+
+INSTALL: 
+  autoconf
+  ./configure
+  make
+  make install
+
+For default configuration files please speak to the link group.
